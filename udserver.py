@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/env python3
 
 #Above code enable the executing command for linux
